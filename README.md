@@ -13,7 +13,7 @@ pip3 install -r requirements.txt
 ## Como executar
 
 ```
-pip3 main.py
+python3 main.py
 ```
 
 ## Saída
